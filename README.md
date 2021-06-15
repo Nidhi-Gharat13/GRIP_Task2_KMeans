@@ -6,6 +6,8 @@
 
 **Language Used : Python**
 
+**Model : KMeans**
+
 **Libraries Used : NUMPY, Pandas, Sklearn, Matplotlib, Seaborn**
 
 
