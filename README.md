@@ -4,7 +4,7 @@
 
 **Tool used : Jupyter Notebook**
 
-**Language Used : Python
+**Language Used : Python**
 
 **Libraries Used : NUMPY, Pandas, Sklearn, Matplotlib, Seaborn**
 
